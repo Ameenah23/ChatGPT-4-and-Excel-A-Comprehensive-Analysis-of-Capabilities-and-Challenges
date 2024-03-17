@@ -23,15 +23,15 @@ The current limitations of ChatGPT-4 in handling complex Excel tasks suggest a n
 ### Conclusion
 While ChatGPT-4 has brought significant advancements in AI-assisted Excel management, it faces notable challenges, especially with complex tasks requiring direct software interaction and sophisticated data analysis. Understanding these limitations is crucial for users to leverage ChatGPT-4 effectively and for developers to focus on areas of improvement. As AI technology evolves, we can anticipate a future where these challenges are addressed, paving the way for more seamless and powerful AI integration in Excel and beyond.
 
-https://chat.openai.com/share/b4d7f8c6-bb51-4fb6-87e7-eda605d68adf
-https://chat.openai.com/share/da378436-cc2b-4615-9083-dfb60d3a4c6a
-https://chat.openai.com/share/b2e474de-5174-4df1-9d33-da488651bc89
-https://chat.openai.com/share/c0f474fe-ef2a-4b0a-ae2f-6e41c4e2c6d0
-https://chat.openai.com/share/dc289950-2cf6-4ece-9f26-36975bb3df2b
-https://chat.openai.com/share/a7b196d2-c326-4de2-9877-30a429297f25
-https://chat.openai.com/share/99167874-bd75-4fd4-8f16-6a7bd3d5a492
-https://chat.openai.com/share/2c166521-a617-434d-b499-82d00a271054
-https://chat.openai.com/share/ce94f4f3-2d24-468c-a7c2-cef6b8ca6f97
-https://chat.openai.com/share/1bbe1edf-e13e-4d92-987b-09c2a302320c
-https://chat.openai.com/share/cfe8ee63-d5c7-459c-96f7-2e05e53c23a7
+- https://chat.openai.com/share/b4d7f8c6-bb51-4fb6-87e7-eda605d68adf
+- https://chat.openai.com/share/da378436-cc2b-4615-9083-dfb60d3a4c6a
+- https://chat.openai.com/share/b2e474de-5174-4df1-9d33-da488651bc89
+- https://chat.openai.com/share/c0f474fe-ef2a-4b0a-ae2f-6e41c4e2c6d0
+- https://chat.openai.com/share/dc289950-2cf6-4ece-9f26-36975bb3df2b
+- https://chat.openai.com/share/a7b196d2-c326-4de2-9877-30a429297f25
+- https://chat.openai.com/share/99167874-bd75-4fd4-8f16-6a7bd3d5a492
+- https://chat.openai.com/share/2c166521-a617-434d-b499-82d00a271054
+- https://chat.openai.com/share/ce94f4f3-2d24-468c-a7c2-cef6b8ca6f97
+- https://chat.openai.com/share/1bbe1edf-e13e-4d92-987b-09c2a302320c
+- https://chat.openai.com/share/cfe8ee63-d5c7-459c-96f7-2e05e53c23a7
 
