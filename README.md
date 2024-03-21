@@ -37,4 +37,6 @@ While ChatGPT-4 has brought significant advancements in AI-assisted Excel manage
 - https://chat.openai.com/share/cfe8ee63-d5c7-459c-96f7-2e05e53c23a7
 
   ![1](https://github.com/Ameenah23/ChatGPT-4-and-Excel-A-Comprehensive-Analysis-of-Capabilities-and-Challenges/assets/123785380/f3fa8aa7-2a82-4cf1-8d4e-68480e97a126)
+  
+![2](https://github.com/Ameenah23/ChatGPT-4-and-Excel-A-Comprehensive-Analysis-of-Capabilities-and-Challenges/assets/123785380/a9d97b7b-4a26-4ef4-a18c-7f7d37fc6092)
 
