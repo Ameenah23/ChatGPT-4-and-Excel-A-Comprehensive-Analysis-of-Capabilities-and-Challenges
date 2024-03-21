@@ -1,7 +1,6 @@
 # ChatGPT-4 and Excel: A Comprehensive Analysis of Capabilities and Challenges
 
 ChatGPT-4, the latest iteration from OpenAI, has demonstrated impressive abilities in linguistic processing and task execution, particularly in the realm of Excel spreadsheet management. However, it encounters significant challenges that limit its effectiveness in more complex Excel functionalities. This article delves deeply into the capabilities of ChatGPT-4 in handling Excel-related tasks, examines the challenges it faces, and explores the implications for users and future AI developments.
-![1](https://github.com/Ameenah23/ChatGPT-4-and-Excel-A-Comprehensive-Analysis-of-Capabilities-and-Challenges/assets/123785380/f3fa8aa7-2a82-4cf1-8d4e-68480e97a126)
 
 
 ### Advanced Understanding and Data Processing
@@ -36,4 +35,6 @@ While ChatGPT-4 has brought significant advancements in AI-assisted Excel manage
 - https://chat.openai.com/share/ce94f4f3-2d24-468c-a7c2-cef6b8ca6f97
 - https://chat.openai.com/share/1bbe1edf-e13e-4d92-987b-09c2a302320c
 - https://chat.openai.com/share/cfe8ee63-d5c7-459c-96f7-2e05e53c23a7
+
+  ![1](https://github.com/Ameenah23/ChatGPT-4-and-Excel-A-Comprehensive-Analysis-of-Capabilities-and-Challenges/assets/123785380/f3fa8aa7-2a82-4cf1-8d4e-68480e97a126)
 
